@@ -4,8 +4,8 @@ SEOTitle: whr的博客 | whr Blog
 header-img: img/post-bg-desk.jpg
 email: whrws666@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "whr, whr Blog, whr博客, haoran wei, 邱柏荧, iOS, Apple, iPhone"
+url: "http://whrws.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/whrws/whrws.github.io.git" # you code repository
 
